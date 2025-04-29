@@ -1,5 +1,5 @@
 ---
-title: "kien thuc cua he phan tan"
+title: "Automatic heading links in mdsvex"
 date: "2023-10-26"
 updated: "2023-10-26"
 categories:
