@@ -1,5 +1,5 @@
 ---
-title: "Automatic heading links in mdsvex"
+title: "I. Kiến thức về hệ thống phân tán"
 date: "2023-10-26"
 updated: "2023-10-26"
 categories:
