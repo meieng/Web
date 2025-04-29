@@ -1,7 +1,7 @@
 ---
-title: "Automatic heading links in mdsvex"
-date: "2023-10-26"
-updated: "2023-10-26"
+title: "Tổng quan về ứng dụng phân tán"
+date: "2025-04-29"
+updated: "2025-04-29"
 categories:
   - "sveltekit"
   - "markdown"
