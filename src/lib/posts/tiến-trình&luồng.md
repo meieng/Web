@@ -1,3 +1,17 @@
+---
+title: "Syntax highlighting with mdsvex"
+date: "2023-01-05"
+updated: "2023-01-05"
+categories:
+  - "sveltekit"
+  - "web"
+  - "css"
+  - "markdown"
+coverImage: "/images/linus-nylund-Q5QspluNZmM-unsplash.jpg"
+coverWidth: 16
+coverHeight: 9
+excerpt: This post shows you how syntax highlighting works here.
+---
 ## 1. Kiểm tra CPU, GPU, RAM – Hiệu năng máy tính
 
 *Đánh giá hiệu năng máy tính - MacBook Pro (13-inch, 2020)
