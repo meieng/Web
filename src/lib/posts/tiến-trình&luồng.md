@@ -28,6 +28,7 @@ excerpt: This post shows you how syntax highlighting works here.
 ## 🔍 Đánh giá hiệu năng
 
 ### CPU
+![CPU](/images/anh2.png)
 - 1.4GHz Quad-Core i5 là dòng tiết kiệm điện, hiệu năng trung bình.
 - Phù hợp với: học tập, lập trình cơ bản, xử lý văn bản, duyệt web.
 - Không lý tưởng cho: biên dịch lớn, máy ảo nặng, AI training.
@@ -38,6 +39,7 @@ excerpt: This post shows you how syntax highlighting works here.
 - Không phù hợp: game, dựng hình 3D, machine learning.
 
 ### RAM
+![RAM](/images/ảnh3.png)
 - 8GB LPDDR3 tốc độ 2133MHz.
 - Phù hợp: sử dụng hàng ngày, đa nhiệm cơ bản.
 - Giới hạn: chạy nhiều ứng dụng nặng, Docker, VM.
