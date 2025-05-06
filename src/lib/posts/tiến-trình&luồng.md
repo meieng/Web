@@ -66,6 +66,7 @@ excerpt: This post shows you how syntax highlighting works here.
 ## 3. Khi nào dùng Thread? Khi nào dùng Process?
 
 _Viết bảng tay, ví dụ như sau:_
+![A](/images/ẢNH1.jpg)
 
 | Tiêu chí            | Thread                             | Process                              | Cả hai                                    |
 |---------------------|-------------------------------------|---------------------------------------|-------------------------------------------|
