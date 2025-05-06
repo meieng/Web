@@ -1,5 +1,5 @@
 ---
-title: "Tiến Trình Và Luồng"
+title: "Tiến trình và luồng"
 date: "2023-01-05"
 updated: "2023-01-05"
 categories:
