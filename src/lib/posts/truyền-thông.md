@@ -1,35 +1,14 @@
 ---
 title: "Truyền thông"
-date: "2025-05-05"
-updated: "2025-05-05"
+date: "2023-01-05"
+updated: "2023-01-05"
 categories:
   - "sveltekit"
+  - "web"
+  - "css"
   - "markdown"
-coverImage: "/images/jefferson-santos-fCEJGBzAkrU-unsplash.jpg"
+coverImage: "/images/linus-nylund-Q5QspluNZmM-unsplash.jpg"
 coverWidth: 16
 coverHeight: 9
-excerpt: Check out how heading links work with this starter in this post.
+excerpt: This post shows you how syntax highlighting works here.
 ---
-
-Here are some headings:
-
-## Here's an h2
-
-Lorem ipsum dolor sit amet
-
-### This is an h3
-
-Lorem ipsum dolor sit amet
-
-#### As you've probably guessed, this is an h4
-
-Lorem ipsum dolor sit amet
-
-##### This, of course, is an h5
-
-Lorem ipsum dolor sit amet
-
-###### We're deep in h6 territory now
-
-Lorem ipsum dolor sit amet
-
