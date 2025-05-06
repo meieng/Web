@@ -34,7 +34,7 @@ excerpt: This post shows you how syntax highlighting works here.
 - Không lý tưởng cho: biên dịch lớn, máy ảo nặng, AI training.
 
 ### GPU
-1[GPU](/images/ảnh4.png)
+![GPU](/images/ảnh4.png)
 - Intel Iris Plus 645 là GPU tích hợp.
 - Dùng được cho: xem video, thiết kế nhẹ, frontend.
 - Không phù hợp: game, dựng hình 3D, machine learning.
