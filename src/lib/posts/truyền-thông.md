@@ -4,7 +4,7 @@ date: "2025-04-29"
 categories:
   - "Hệ thống phân tán"
   - "Đa luồng & đa tiến trình"
-coverImage: "/images/truyenthong.jpg"
+coverImage: "/images/ảnhtt.jpg"
 excerpt: truyền thông 
 
 ---
