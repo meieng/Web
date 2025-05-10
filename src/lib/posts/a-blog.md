@@ -8,7 +8,7 @@ categories:
 coverImage: "/images/ảnhblog.jpg"
 coverWidth: 16
 coverHeight: 9
-excerpt:Tổng quan về ứng dụng phân tán
+excerpt: Tổng quan về ứng dụng phân tán
 ---
 ## 1. Hệ thống phân tán là gì?
 
