@@ -10,7 +10,7 @@ categories:
 coverImage: "/images/linus-nylund-Q5QspluNZmM-unsplash.jpg"
 coverWidth: 16
 coverHeight: 9
-excerpt: This post shows you how syntax highlighting works here.
+excerpt: Tiến trình và luồng
 ---
 ## 1. Kiểm tra CPU, GPU, RAM – Hiệu năng máy tính
 
