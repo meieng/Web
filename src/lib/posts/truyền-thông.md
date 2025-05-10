@@ -1,6 +1,6 @@
 ---
 title: "Truyền Thông"
-date: "2025-05-05"
+date: "2025-04-29"
 categories:
   - "Hệ thống phân tán"
   - "Đa luồng & đa tiến trình"
@@ -139,7 +139,7 @@ payload = {
     "params": {"x": 5, "y": 3},
     "id": 1
 }
-response = requests.post("http://localhost:5000", json=payload)
+response = requests.post("("http://localhost:5000", json=payload)
 print(response.json())
 ```
 ---
