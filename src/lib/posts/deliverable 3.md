@@ -39,32 +39,6 @@ Hệ thống tìm kiếm sản phẩm trà đã được triển khai thành cô
 
 ## 3.Mã nguồn(Code Snippets)
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <title>Tea Search</title>
-</head>
-<body>
-  <h1>Search for Tea Products</h1>
-  <input type="text" id="searchInput" placeholder="Enter keyword..." />
-  <div id="result"></div>
-
-  <script>
-    document.getElementById('searchInput').addEventListener('input', async (e) => {
-      const res = await fetch(`/search?q=${e.target.value}`);
-      const data = await res.json();
-
-      const html = data.map(item =>
-        `<div><strong>${item._source.name}</strong> - ${item._source.description}</div>`
-      ).join('');
-
-      document.getElementById('result').innerHTML = html;
-    });
-  </script>
-</body>
-</html>
-
 ## 4.Danh sách tính năng đã hoàn thành
 Tìm kiếm sản phẩm qua Elasticsearch
 -Đã triển khai thành công tính năng tìm kiếm tên sản phẩm thông qua Elasticsearch.
