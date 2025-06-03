@@ -1,5 +1,5 @@
 ---
-title: "Tóm tắt tiến độ dự án"
+title: "Deliverable 3: Website"
 date: "2025-5-11"
 updated: "2025-5-11"
 categories:
@@ -8,7 +8,7 @@ categories:
 coverImage: "https://digitalis.io/wp-content/uploads/2020/12/Elastic600x340.jpg"
 coverWidth: 16
 coverHeight: 9
-excerpt: Check out how heading links work with this starter in this post.
+excerpt: Deliverable 3
 ---
 ## 1.Tóm tắt tiến độ dự án
 Hệ thống bán trà trực tuyến hiện đã hoàn thành phần giao diện người dùng với HTML, CSS và JavaScript, cùng backend Node.js kết nối với Elasticsearch chạy trong Docker Desktop.
