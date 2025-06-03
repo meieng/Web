@@ -8,7 +8,7 @@ categories:
 coverImage: "https://digitalis.io/wp-content/uploads/2020/12/Elastic600x340.jpg"
 coverWidth: 16
 coverHeight: 9
-excerpt: Check out how heading links work with this starter in this post.
+excerpt: Deliverable 2
 ---
 # Hệ thống Web Bán Trà Sử Dụng Elasticsearch
 
