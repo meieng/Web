@@ -1,5 +1,5 @@
 ---
-title: "Đề xuất dự án"
+title: "Deliverable 1"
 date: "2025-5-11"
 updated: "2025-5-11"
 categories:
@@ -8,7 +8,7 @@ categories:
 coverImage: "https://digitalis.io/wp-content/uploads/2020/12/Elastic600x340.jpg"
 coverWidth: 16
 coverHeight: 9
-excerpt: Check out how heading links work with this starter in this post.
+excerpt: Deliverable 1
 ---
 
 ## 1. Đề tài:
