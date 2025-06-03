@@ -1,5 +1,5 @@
 ---
-title: "Deliverable 1"
+title: "Deliverable 1: Website"
 date: "2025-5-11"
 updated: "2025-5-11"
 categories:
