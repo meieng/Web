@@ -8,7 +8,7 @@ categories:
 coverImage: "https://digitalis.io/wp-content/uploads/2020/12/Elastic600x340.jpg"
 coverWidth: 16
 coverHeight: 9
-excerpt: Check out how heading links work with this starter in this post.
+excerpt: Bài nộp giữa kì
 ---
 ## 1. Các đường link nộp bài giữa kì.
 - Link github: https://github.com/Maim2728/teanode
